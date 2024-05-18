@@ -4,3 +4,4 @@ telethon
 urllib3
 aiocron
 psutil
+pip install -r requirements.txt
